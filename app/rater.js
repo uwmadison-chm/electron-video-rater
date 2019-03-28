@@ -1,0 +1,2 @@
+window.rater = 1;
+

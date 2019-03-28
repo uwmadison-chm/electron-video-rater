@@ -1,0 +1,11 @@
+{
+    "name": "electron_video_rater",
+    "version": "0.0.1",
+    "main": "app/main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron": "^4.0.8"
+    }
+}
